@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @0100Light
+# 👋
+
+> "It is during our darkest moments that we must focus to see the light." — Aristotle
 
 <!---
 0100Light/0100Light is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
